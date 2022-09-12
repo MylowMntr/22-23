@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Administrateur/Desktop/22-23/build",
+  "command": "C:/MinGW/bin/mingw32-gcc.exe   -g -o CMakeFiles/TP01.dir/first.c.obj -c C:/Users/Administrateur/Desktop/22-23/first.c",
+  "file": "C:/Users/Administrateur/Desktop/22-23/first.c"
+}
+]
