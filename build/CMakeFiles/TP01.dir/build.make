@@ -69,28 +69,28 @@ include CMakeFiles/TP01.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TP01.dir/flags.make
 
-CMakeFiles/TP01.dir/first.c.obj: CMakeFiles/TP01.dir/flags.make
-CMakeFiles/TP01.dir/first.c.obj: ../first.c
-CMakeFiles/TP01.dir/first.c.obj: CMakeFiles/TP01.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/Administrateur/Desktop/22-23/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TP01.dir/first.c.obj"
-	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TP01.dir/first.c.obj -MF CMakeFiles/TP01.dir/first.c.obj.d -o CMakeFiles/TP01.dir/first.c.obj -c C:/Users/Administrateur/Desktop/22-23/first.c
+CMakeFiles/TP01.dir/ex7.c.obj: CMakeFiles/TP01.dir/flags.make
+CMakeFiles/TP01.dir/ex7.c.obj: ../ex7.c
+CMakeFiles/TP01.dir/ex7.c.obj: CMakeFiles/TP01.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/Administrateur/Desktop/22-23/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TP01.dir/ex7.c.obj"
+	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/TP01.dir/ex7.c.obj -MF CMakeFiles/TP01.dir/ex7.c.obj.d -o CMakeFiles/TP01.dir/ex7.c.obj -c C:/Users/Administrateur/Desktop/22-23/ex7.c
 
-CMakeFiles/TP01.dir/first.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TP01.dir/first.c.i"
-	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:/Users/Administrateur/Desktop/22-23/first.c > CMakeFiles/TP01.dir/first.c.i
+CMakeFiles/TP01.dir/ex7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TP01.dir/ex7.c.i"
+	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:/Users/Administrateur/Desktop/22-23/ex7.c > CMakeFiles/TP01.dir/ex7.c.i
 
-CMakeFiles/TP01.dir/first.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP01.dir/first.c.s"
-	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/Administrateur/Desktop/22-23/first.c -o CMakeFiles/TP01.dir/first.c.s
+CMakeFiles/TP01.dir/ex7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TP01.dir/ex7.c.s"
+	C:/MinGW/bin/mingw32-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/Administrateur/Desktop/22-23/ex7.c -o CMakeFiles/TP01.dir/ex7.c.s
 
 # Object files for target TP01
 TP01_OBJECTS = \
-"CMakeFiles/TP01.dir/first.c.obj"
+"CMakeFiles/TP01.dir/ex7.c.obj"
 
 # External object files for target TP01
 TP01_EXTERNAL_OBJECTS =
 
-TP01.exe: CMakeFiles/TP01.dir/first.c.obj
+TP01.exe: CMakeFiles/TP01.dir/ex7.c.obj
 TP01.exe: CMakeFiles/TP01.dir/build.make
 TP01.exe: CMakeFiles/TP01.dir/linklibs.rsp
 TP01.exe: CMakeFiles/TP01.dir/objects1.rsp

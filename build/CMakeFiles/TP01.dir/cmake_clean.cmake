@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TP01.dir/first.c.obj"
-  "CMakeFiles/TP01.dir/first.c.obj.d"
+  "CMakeFiles/TP01.dir/ex7.c.obj"
+  "CMakeFiles/TP01.dir/ex7.c.obj.d"
   "TP01.exe"
   "TP01.exe.manifest"
   "TP01.pdb"

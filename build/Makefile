@@ -523,29 +523,29 @@ TP01/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/build
 .PHONY : TP01/fast
 
-first.obj: first.c.obj
-.PHONY : first.obj
+ex7.obj: ex7.c.obj
+.PHONY : ex7.obj
 
 # target to build an object file
-first.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/first.c.obj
-.PHONY : first.c.obj
+ex7.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/ex7.c.obj
+.PHONY : ex7.c.obj
 
-first.i: first.c.i
-.PHONY : first.i
+ex7.i: ex7.c.i
+.PHONY : ex7.i
 
 # target to preprocess a source file
-first.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/first.c.i
-.PHONY : first.c.i
+ex7.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/ex7.c.i
+.PHONY : ex7.c.i
 
-first.s: first.c.s
-.PHONY : first.s
+ex7.s: ex7.c.s
+.PHONY : ex7.s
 
 # target to generate assembly for a file
-first.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/first.c.s
-.PHONY : first.c.s
+ex7.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TP01.dir/build.make CMakeFiles/TP01.dir/ex7.c.s
+.PHONY : ex7.c.s
 
 # Help Target
 help:
@@ -587,9 +587,9 @@ help:
 	@echo "... NightlyTest"
 	@echo "... NightlyUpdate"
 	@echo "... TP01"
-	@echo "... first.obj"
-	@echo "... first.i"
-	@echo "... first.s"
+	@echo "... ex7.obj"
+	@echo "... ex7.i"
+	@echo "... ex7.s"
 .PHONY : help
 
 

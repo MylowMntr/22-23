@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Administrateur/Desktop/22-23/first.c" "CMakeFiles/TP01.dir/first.c.obj" "gcc" "CMakeFiles/TP01.dir/first.c.obj.d"
+  "C:/Users/Administrateur/Desktop/22-23/ex7.c" "CMakeFiles/TP01.dir/ex7.c.obj" "gcc" "CMakeFiles/TP01.dir/ex7.c.obj.d"
   )
 
 # Targets to which this target links.
